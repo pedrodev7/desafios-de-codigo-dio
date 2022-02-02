@@ -10,6 +10,7 @@ Abaixo os bootcamps realizados e os desafios de código que podem ser encontrado
 * Take Blip Fullstack Developer #2
 * NTT DATA New Talents #3 .NET
 * Decola Tech 2a edição
+* Inter Frontend Developer
 
 
 <h2>Acelerações</h2>
